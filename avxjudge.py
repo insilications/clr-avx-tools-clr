@@ -54,8 +54,8 @@ avx2_instructions_hv = set([
 avx512_instructions_hv = set()
 
 # Minimum thresholds for keeping libraries
-min_count = 10
-min_score = 1.0
+min_count = 1
+min_score = 0.1
 
 debug = 0
 
